@@ -1,0 +1,1 @@
+select n.name, h.name as hobby, k.name as category from nama n JOIN hobi h ON n.id_hobby = h.id JOIN kategori k ON k.id=h.id_category
