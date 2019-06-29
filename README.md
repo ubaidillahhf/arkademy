@@ -4,13 +4,13 @@
 
 [GAMBAR NO 7]
 #Retrieve Index
-https://github.com/ubaidillahhf/arkademy/issues/1#issue-462313555
+![index](https://user-images.githubusercontent.com/17443546/60386409-abe6bc80-9abe-11e9-9aec-ae0f219769f9.JPG)
 
 #Tambah
 ![tambah](https://user-images.githubusercontent.com/17443546/60386439-ecded100-9abe-11e9-8cc9-838e8b7b0aef.JPG)
 
 #edit
-https://github.com/ubaidillahhf/arkademy/issues/2#issue-462313619
+![edit](https://user-images.githubusercontent.com/17443546/60386419-c5880400-9abe-11e9-9d06-9d5d6683a2fa.JPG)
 
 #Delete
 ![hapus](https://user-images.githubusercontent.com/17443546/60386430-d9336a80-9abe-11e9-8457-9d2a522ec2fe.JPG)
